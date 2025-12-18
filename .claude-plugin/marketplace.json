@@ -61,6 +61,8 @@
         "mcp",
         "builder"
       ],
+      "category": "development",
+      "strict": false,
       "skills": [
         "./skills"
       ]
