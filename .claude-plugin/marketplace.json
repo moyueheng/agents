@@ -47,7 +47,7 @@
     },
     {
       "name": "mcp_builder",
-      "source": "./plugins-zh/mcp_builder",
+      "source": "./plugins-zh/mcp-builder",
       "description": "MCP 服务器开发指南, 包括各种最佳实践",
       "version": "1.0.0",
       "author": {
