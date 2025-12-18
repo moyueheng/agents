@@ -35,7 +35,6 @@
       ],
       "agents": [
         "./agents/python-pro.md",
-        "./agents/django-pro.md",
         "./agents/fastapi-pro.md"
       ],
       "skills": [
@@ -44,6 +43,26 @@
         "./skills/python-packaging",
         "./skills/python-performance-optimization",
         "./skills/uv-package-manager"
+      ]
+    },
+    {
+      "name": "mcp_builder",
+      "source": "./plugins-zh/mcp_builder",
+      "description": "MCP 服务器开发指南, 包括各种最佳实践",
+      "version": "1.0.0",
+      "author": {
+        "name": "Moyueheng",
+        "url": "https://github.com/moyueheng"
+      },
+      "homepage": "https://github.com/moyueheng/claude-plugins",
+      "repository": "https://github.com/moyueheng/claude-plugins",
+      "license": "MIT",
+      "keywords": [
+        "mcp",
+        "builder"
+      ],
+      "skills": [
+        "./skills"
       ]
     }
   ]
