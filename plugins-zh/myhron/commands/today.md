@@ -1,0 +1,2 @@
+- 总结一下zed最近的更新 https://github.com/zed-industries/zed/releases
+- 总结火山最近的活动 https://developer.volcengine.com/activities?status=1
