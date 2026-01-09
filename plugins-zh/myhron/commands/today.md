@@ -1,3 +1,5 @@
 - 总结一下zed最近的更新 https://github.com/zed-industries/zed/releases
 - 总结火山最近的活动 https://developer.volcengine.com/activities?status=1
-- 汇总一下正在进行的比赛 https://modelscope.cn/competition
+- 分别阅读下面的地址, 汇总正在进行中的比赛
+  - https://modelscope.cn/competition
+  - https://competition.openatom.tech/competition
