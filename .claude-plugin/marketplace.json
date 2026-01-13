@@ -22,17 +22,10 @@
       "homepage": "https://github.com/moyueheng/claude-plugins",
       "repository": "https://github.com/moyueheng/claude-plugins",
       "license": "MIT",
-      "keywords": [
-        "python",
-        "fastapi",
-        "async",
-        "backend"
-      ],
+      "keywords": ["python", "fastapi", "async", "backend"],
       "category": "languages",
       "strict": false,
-      "commands": [
-        "./commands/python-scaffold.md"
-      ],
+      "commands": ["./commands/python-scaffold.md"],
       "agents": [
         "./agents/python-pro.md",
         "./agents/python-pro_zh.md",
@@ -58,15 +51,10 @@
       "homepage": "https://github.com/moyueheng/claude-plugins",
       "repository": "https://github.com/moyueheng/claude-plugins",
       "license": "MIT",
-      "keywords": [
-        "mcp",
-        "builder"
-      ],
+      "keywords": ["mcp", "builder"],
       "category": "development",
       "strict": false,
-      "skills": [
-        "./skills"
-      ]
+      "skills": ["./skills"]
     },
     {
       "name": "multi-platform-apps",
@@ -80,17 +68,10 @@
       "homepage": "https://github.com/moyueheng/claude-plugins",
       "repository": "https://github.com/moyueheng/claude-plugins",
       "license": "MIT",
-      "keywords": [
-        "frontend",
-        "react",
-        "nextjs",
-        "multi-platform"
-      ],
+      "keywords": ["frontend", "react", "nextjs", "multi-platform"],
       "category": "development",
       "strict": false,
-      "agents": [
-        "./agents/frontend-developer.md"
-      ]
+      "agents": ["./agents/frontend-developer.md"]
     },
     {
       "name": "myhron",
@@ -104,15 +85,10 @@
       "homepage": "https://github.com/moyueheng/claude-plugins",
       "repository": "https://github.com/moyueheng/claude-plugins",
       "license": "MIT",
-      "keywords": [
-        "utilities",
-        "commands"
-      ],
+      "keywords": ["utilities", "commands"],
       "category": "utilities",
       "strict": false,
-      "commands": [
-        "./commands/today.md"
-      ]
-    }
+      "commands": ["./commands/today.md"]
+    },
   ]
 }
