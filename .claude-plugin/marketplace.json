@@ -89,6 +89,6 @@
       "category": "utilities",
       "strict": false,
       "commands": ["./commands/today.md"]
-    },
+    }
   ]
 }
