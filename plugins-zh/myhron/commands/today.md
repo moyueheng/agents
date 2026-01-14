@@ -1,5 +1,5 @@
 - 总结一下zed最近的更新 https://github.com/zed-industries/zed/releases
 - 总结火山最近的活动 https://developer.volcengine.com/activities?status=1
-- 分别阅读下面的地址, 汇总正在进行中的比赛
-  - https://modelscope.cn/competition
-  - https://competition.openatom.tech/competition
+- 总结gemini cli 最新更新内容: https://geminicli.com/docs/changelogs/
+- 总结 opencode 最新更新内容: https://github.com/anomalyco/opencode/releases
+- 总结codex 最新更新内容: https://developers.openai.com/codex/changelog/
