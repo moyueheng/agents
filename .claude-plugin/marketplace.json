@@ -88,10 +88,7 @@
       "keywords": ["utilities", "commands"],
       "category": "utilities",
       "strict": false,
-      "commands": [
-        "./commands/news.md",
-        "./commands/game.md"
-      ]
+      "commands": ["./commands/news.md", "./commands/game.md"]
     }
   ]
 }
