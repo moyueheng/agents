@@ -88,7 +88,10 @@
       "keywords": ["utilities", "commands"],
       "category": "utilities",
       "strict": false,
-      "commands": ["./commands/today.md"]
+      "commands": [
+        "./commands/news.md",
+        "./commands/game.md"
+      ]
     }
   ]
 }

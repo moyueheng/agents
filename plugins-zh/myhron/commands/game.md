@@ -1,0 +1,3 @@
+- 分别阅读下面的地址, 汇总正在进行中的比赛
+  - https://modelscope.cn/competition
+  - https://competition.openatom.tech/competition
